@@ -1,5 +1,6 @@
 ANDROID 
 =======
+Enero- Febrero 2013
 
 Introducción al desarrollo de aplicaciones para Android
 
@@ -24,3 +25,8 @@ Sesiones
 * [Sesión 06]()	Geolocalización	Hansy	Debe tener geolocalización con dibujo de ruta	/ Interactividad - Sensores	Carlos	
 * [Sesión 07]() Deployar App	JJ	Se realizará el procedimiento de creación de cuenta en gwallet y deployar el app en el gplay / Conexiones remotas	@dmotta	REST, webservice,XML, JSON
 * [Sesión 08]()	Android Debugging Tips		Manejo de exceptions
+
+Agradecimientos
+---------------
+Organizador : Edu
+Facilitadores : Edu, Hansy, Piñan, Meison, JJ, Freddy
