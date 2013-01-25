@@ -5,26 +5,22 @@ Introducción al desarrollo de aplicaciones para Android
 
 Índice
 ------
-* Introducción Android
-* Fundamentos
-* GUI básico /avanzado
-* Base de Datos
-* Multimedia y Graphics
-* Geolocalización / Interactividad
-* Publicación / Conexiones Remotas
-* Android Debugging Tips
+* 1. Introducción Android
+* 2. Fundamentos
+* 3. GUI básico /avanzado
+* 4. Base de Datos
+* 5. Multimedia y Graphics
+* 6. Geolocalización / Interactividad
+* 7. Publicación / Conexiones Remotas
+* 8. Android Debugging Tips
 
 Sesiones
 --------
-* Sesión 1	Introducción Android	Edu	
-* Sesión 2	Fundamentos Actividad y Ciclo de Vida	Meison	Intent, service, content providers
-* Sesión 3	GUI Basico	Carlos	Componentes basicos
-* Sesión 4	GUI Avanzando		Fragment Listas, Spinner
-* Sesión 5 	Base de Datos 	Freddy	SQLITE CRUD
-* Sesión 6	Multimedia	Edu	Camara, Audio , Video
-* 7	Graphics y Animación	Milton	
-* 8	Geolocalización	Hansy	Debe tener geolocalización con dibujo de ruta
-* 9	Interactividad - Sensores	Carlos	
-* 10	Deployar App	JJ	Se realizará el procedimiento de creación de cuenta en gwallet y deployar el app en el gplay
-* 11	Conexiones remotas	@dmotta	REST, webservice,XML, JSON
-* 12	Android Debugging Tips		Manejo de exceptions
+* [Sesión 01]()	Introducción Android	Edu	
+* [Sesión 02]()	Fundamentos Actividad y Ciclo de Vida	Meison	Intent, service, content providers
+* [Sesión 03]()	GUI Basico	Carlos	Componentes basicos -	GUI Avanzando		Fragment Listas, Spinner
+* [Sesión 04]() Base de Datos 	Freddy	SQLITE CRUD
+* [Sesión 05]() Multimedia	Edu	Camara, Audio , Video -	Graphics y Animación	Milton	
+* [Sesión 06]()	Geolocalización	Hansy	Debe tener geolocalización con dibujo de ruta	/ Interactividad - Sensores	Carlos	
+* [Sesión 07]() Deployar App	JJ	Se realizará el procedimiento de creación de cuenta en gwallet y deployar el app en el gplay / Conexiones remotas	@dmotta	REST, webservice,XML, JSON
+* [Sesión 08]()	Android Debugging Tips		Manejo de exceptions
