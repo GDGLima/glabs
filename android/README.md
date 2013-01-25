@@ -26,6 +26,14 @@ Sesiones
 * [Sesión 07]() Deployar App	JJ	Se realizará el procedimiento de creación de cuenta en gwallet y deployar el app en el gplay / Conexiones remotas	@dmotta	REST, webservice,XML, JSON
 * [Sesión 08]()	Android Debugging Tips		Manejo de exceptions
 
+Referencias
+------------
+* [developer.android](http://developer.android.com/index.html)
+* [developer.android.design](http://developer.android.com/design/index.html)
+* [developer.android.develop](http://developer.android.com/develop/index.html)
+* [developer.android.distribute](http://developer.android.com/distribute/index.html)
+
+
 Agradecimientos
 ---------------
 * Organizador : Edu
