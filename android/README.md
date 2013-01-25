@@ -1,6 +1,21 @@
 ANDROID 
 =======
 
+Introducción al desarrollo de aplicaciones para Android
+
+Índice
+------
+* Introducción Android
+* Fundamentos
+* GUI básico /avanzado
+* Base de Datos
+* Multimedia y Graphics
+* Geolocalización / Interactividad
+* Publicación / Conexiones Remotas
+* Android Debugging Tips
+
+Sesiones
+--------
 * Sesión 1	Introducción Android	Edu	
 * Sesión 2	Fundamentos Actividad y Ciclo de Vida	Meison	Intent, service, content providers
 * Sesión 3	GUI Basico	Carlos	Componentes basicos
