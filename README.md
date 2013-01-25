@@ -14,15 +14,15 @@ Información
 
 Directorio
 ----------
-	- Android (Enero- Febrero 2013)
-	- Html5 (Enero - Febrero 2013)
-	- Python Django
+* Android (Enero- Febrero 2013)
+* Html5 (Enero - Febrero 2013)
+* Python Django
 
 Facilitadores
 -------------
-	- Eduardo Medina @eduardomedina
-	- Carlos Piñan
-	- Meison
-	- Juan José Rodriguez
-	- Freddy
-	- Hansy
+* Eduardo Medina @eduardomedina
+* Carlos Piñan
+* Meison
+* Juan José Rodriguez
+* Freddy
+* Hansy
