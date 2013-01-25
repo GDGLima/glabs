@@ -28,5 +28,5 @@ Sesiones
 
 Agradecimientos
 ---------------
-Organizador : Edu
-Facilitadores : Edu, Hansy, Piñan, Meison, JJ, Freddy
+* Organizador : Edu
+* Facilitadores : Edu, Hansy, Piñan, Meison, JJ, Freddy
