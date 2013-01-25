@@ -17,6 +17,14 @@ Indice
 
 Sesiones
 --------
+* Sesión 01. Introducción al Desarrollo Web / Entorno de Desarrollo / Sublime Text / Primer proyecto web / 
+* Sesión 02. Fundamentos de html, Css y Javascript (Jquery)
+* Sesión 03. Tool Web Developer / Consola Chrome 
+* Sesión 04. Canvas /Manejo del canvas / 2D /  
+* Sesión 05. Multimedia /Audio / Vídeo
+* Sesión 06. Geolocalización 
+* Sesión 07. Html5 Elements
+* Sesión 08. Css3 /Transiciones / Transformaciones 2d y 3D
 
 Referencias
 -----------
