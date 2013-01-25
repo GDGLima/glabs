@@ -8,9 +8,9 @@ Nos juntamos todos los viernes por HO a compartir conocimiento sobre alguna tecn
 
 Información 
 -----------
-	[WebSite](http://gdglima.pe)
-	GIT : <https://github.com/GDGLima/glabs.git>
-	Google group : 
+[WebSite](http://gdglima.pe)
+[GIT](https://github.com/GDGLima/glabs.git)
+[Google group]() 
 
 Directorio
 ----------
