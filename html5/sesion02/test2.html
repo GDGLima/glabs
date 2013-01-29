@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Titulo</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+		<script>
+			function saludar(){
+				// document.write("Hola!");
+				var nombre=prompt("Cual es tu nombre?");
+
+				if(confirm("Desea registrar a " + nombre)){
+					alert("Registrada ^^!");
+				}
+				else
+				{
+					alert("Otro dia será!")
+				}
+			}
+
+		</script>
+	</head>
+
+	<body>
+		<div id="container">
+			<div id="header">
+				<h1 align="center">GDG LIMA GIRLS</h1>
+			</div>
+
+			<div id="content" >
+				<p>
+					Somos el  <strong>GDG Lima Girls</strong>, iniciativa que está siendo promovida por nuestra Comunidad de tecnología Google de Perú con el objetivo de crear un espacio comunitario de aprendizaje y difusión en tecnologías Google mediante la realización de diversas iniciativas, tales como participación en eventos, hackatones, conferencias, hangouts, etc.
+				</p>
+				<a href="http://devfestlima.gdglima.pe"><img src="img/chicas.jpg" alt="chicas del gdg lima" width="500px"/></a>
+			</div>
+
+			<div id="footer">
+				<ul>
+					<li type="none">INICIO</li>
+					<li type="none">EVENTOS</li>
+					<li type="none">BLOG</li>
+					<li type="none" onclick="saludar();">UNETE</li>
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>
+
+
