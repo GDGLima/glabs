@@ -1,0 +1,50 @@
+body{
+	background:#92CBD9;
+    font-family:Arial;
+    font-size:20px;
+}
+
+h1{
+    color:#D6328C;
+    font-size:50px;
+
+}
+
+#container{
+    /*background: green;*/
+    width: 960px;
+    margin: 0 auto;
+}
+#content{
+    text-align: center;
+}
+#content p{
+    color: #515151;
+    margin: 20px auto;
+    line-height: 30px;
+    width: 60%;
+}
+
+#content img{
+    border: 1px solid pink;
+}
+
+#footer{
+    font-size:24px;
+    margin:40px 0 0 0;
+}
+
+
+#footer ul li{
+    background: #E272AF;
+    color:#fff;
+    display:inline-block;
+    height:40px;
+    padding:10px 0;
+    text-align:center;
+    width: 24%;
+}
+
+#footer ul li:hover{
+    background: #D6368E;
+}
