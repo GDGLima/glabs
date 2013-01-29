@@ -1,0 +1,1007 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cssre",
+				"class=\"rmore"
+			],
+			[
+				"get_s",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"wp_",
+				"wp_enqueue_script"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"style",
+				"stylesheet_url"
+			],
+			[
+				"tu",
+				"type=  (attribute)"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"atom",
+				"atom_url"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-style:   (property)"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"margin",
+				"margin-top:   (property)"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"curs",
+				"cursor"
+			],
+			[
+				"al",
+				"alt	@alt"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"ta",
+				"target	@target"
+			],
+			[
+				"i",
+				"!important  (value)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"strip",
+				"strip_tags  (function)"
+			],
+			[
+				"fec",
+				"fechaFormato"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"but",
+				"button_contact"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font-",
+				"font-size:   (property)"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"focus  (pseudo-class)"
+			],
+			[
+				"TEX",
+				"textarea"
+			],
+			[
+				"conta",
+				"contactForm"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"CO",
+				"color"
+			],
+			[
+				"DIOS",
+				"display	zen:css_properties"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"background",
+				"background-color	zen:css_properties"
+			],
+			[
+				"tes",
+				"testimonial"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bACK",
+				"background-color"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"H",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"backgroud",
+				"background-color:   (property)"
+			],
+			[
+				"ideas",
+				"ideas3"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"l",
+				"list-style-type"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"page",
+				"page-footer"
+			],
+			[
+				"slide",
+				"slide_duration"
+			],
+			[
+				"slid",
+				"slideUp  (function)"
+			],
+			[
+				"idea",
+				"idea3"
+			],
+			[
+				"id",
+				"idea2"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"s",
+				"slideToggle  (function)"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"h",
+				"Hide"
+			],
+			[
+				"fade",
+				"fadeOut  (function)"
+			],
+			[
+				"fa",
+				"fadeToggle  (function)"
+			],
+			[
+				"sl",
+				"slideUp  (function)"
+			],
+			[
+				"tog",
+				"toggle1"
+			],
+			[
+				"get",
+				"getElementById  (function)"
+			],
+			[
+				"sli",
+				"slideDown  (function)"
+			],
+			[
+				"font-s",
+				"font-style:   (property)"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"list-style",
+				"list-style-image"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"boder-c",
+				"border-color"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"moz-tr",
+				"-moz-transition:   (property)"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"W",
+				"width	zen:css_properties"
+			],
+			[
+				"webkit-tr",
+				"-webkit-transition:   (property)"
+			],
+			[
+				"o-tr",
+				"-moz-transition:   (property)"
+			],
+			[
+				"border-c",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test2.html",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style1.css",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Windows",
+				"name": "selector{"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 757,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"zen co",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"COLO",
+				"Color Picker: Insert Color"
+			],
+			[
+				"COLOR",
+				"Color Picker: Insert Color"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color picker"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Repositorio_local/lasb2html5/index.html",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/Base File.sublime-settings",
+		"/D/Repositorio_local/glabs2html5",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/.htaccess",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/twentyeleven/404.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/header.php",
+		"/C/Users/Manuel/Desktop/sample.html",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/ui.totop.css",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/js/jquery.ui.totop.js",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/slide.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/comments.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/full-page.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/tabs.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/archive.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/search.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/single.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/footer.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/sidebar.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/bottom.php",
+		"/C/Users/Manuel/Desktop/.htaccess",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/page.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/sidebar.css",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/index.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/searchform.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/twitter.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/functions.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/facebook.css",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/admin/css/admin-style.css",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/sponsors.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/archive.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/admin/options-framework.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/footer.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/functions.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/single.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/tabs.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/bottom.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/comments.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/full-page.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/search.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/searchform.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/sidebar.css",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/sidebar.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/sponsors.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/theme_options.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/cache/index.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/guide.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/timthumb.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/admin/css/colorpicker.css",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/admin/css/admin-style.css",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/Reporter/admin/options-interface.php",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/geekeandonos/index.html",
+		"/C/xampp/htdocs/geekeandonos/wp-content/themes/twentyeleven/style.css",
+		"/C/xampp/htdocs/geekeandonos/wp-config.php",
+		"/C/xampp/htdocs/wordpress/wp-config.php",
+		"/C/Users/Manuel/Desktop/hm5shut.html",
+		"/C/Users/Manuel/Desktop/testaudio2.html",
+		"/D/Repositorio_local/ZhemaWEB/.htaccess",
+		"/D/Pruebas Desarrollo/neobytec-AnimatedPanelMenu-ac1d88c/index.html",
+		"/D/Sublime Text 2.0.1/Data/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/goto_css_declaration.sublime-settings",
+		"/D/Sublime Text 2.0.1/Data/Packages/User/CSS.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/D/Sublime Text 2.0.1/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Element Finder.sublime-settings",
+		"/D/Repositorio_local/ZhemaWEB/index.html",
+		"/D/Repositorio_local/ZhemaWEB/sitemap.xml",
+		"/D/Repositorio_local/ZhemaWEB/css/socialicon/fc-webicons.css",
+		"/D/Repositorio_local/ZhemaWEB/js/uitotop.js",
+		"/D/Repositorio_local/ZhemaWEB/process.php",
+		"/D/Repositorio_local/ZhemaWEB/css/style.css",
+		"/D/Repositorio_local/ZhemaWEB/js/script.js",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Emmet.sublime-settings",
+		"/D/Repositorio_local/ZhemaWEB/sitemap",
+		"/D/Repositorio_local/ZhemaWEB/css/ui.totop.css",
+		"/C/Users/Manuel/Desktop/jquery-ajax/bin/process.php",
+		"/C/Users/Manuel/Downloads/blog-11-23-2012.xml",
+		"/C/Users/Manuel/Desktop/jquery-ajax/tutorial.html",
+		"/C/Users/Manuel/Desktop/jquery-ajax/js/runonload.js",
+		"/C/Users/Manuel/Desktop/jquery-ajax/js/tutorial.js",
+		"/D/Repositorio_local/ZhemaWEB/js/custom.js",
+		"/D/Repositorio_local/ZhemaWEB/phpmailer.php",
+		"/D/Repositorio_local/ZhemaWEB/css/general_foundicons.css",
+		"/D/Repositorio_local/ZhemaWEB/js/plugins.js",
+		"/C/Users/Manuel/Desktop/process.php",
+		"/D/Repositorio_local/ZhemaWEB/css/foundation/general_foundicons.css",
+		"/D/Repositorio_local/ZhemaWEB/css/foundation/social_foundicons.css",
+		"/D/Repositorio_local/ZhemaWEB/servicios.html",
+		"/D/Pruebas Desarrollo/foundation_icons_all/foundation_icons_social/sass/social_foundicons.scss",
+		"/D/Repositorio_local/ZhemaWEB/css/iView/style.css",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/Git.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/Git/Git.sublime-settings",
+		"/D/Repositorio_local/ZhemaWEB/css/960.css",
+		"/D/Repositorio_local/ZhemaWEB/css/core.css",
+		"/D/Repositorio_local/ZhemaWEB/css/iView/iview.css",
+		"/D/Repositorio_local/ZhemaWEB/css/slides/slide.css",
+		"/D/Repositorio_local/ZhemaWEB/js/form-validations.js",
+		"/D/Repositorio_local/ZhemaWEB/contacto.html",
+		"/D/Repositorio_local/ZhemaWEB/nosotros.html",
+		"/D/Repositorio_local/ZhemaWEB/css/smoothness/jquery-ui-1.8.23.custom.css",
+		"/D/Dropbox/Proyectos/Angel Carassa LOGO TLH/templo_hermosa.html",
+		"/D/Repositorio_local/ZhemaWEB/js/jquerytweet.js",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/emmet-sublime/Emmet.sublime-settings",
+		"/D/Repositorio_local/ZhemaWEB/css/social.css",
+		"/D/Google Drive/Geekeandonos!/hd-theme tumblr G.html",
+		"/C/Users/Manuel/Desktop/hd.html",
+		"/D/Repositorio_local/ZhemaWEB/js/list.js",
+		"/D/Repositorio_local/ZhemaWEB/css/foundation/foundation.css",
+		"/D/Repositorio_local/ZhemaWEB/css/social_foundicons.css",
+		"/D/Repositorio_local/ZhemaWEB/zhemaweb.sublime-project",
+		"/D/Repositorio_local/ZhemaWEB/js/libs/UItoTop/jquery.ui.totop.min.js",
+		"/D/Repositorio_local/ZhemaWEB/js/jquery-ui-1.8.23.custom.min.js",
+		"/D/Repositorio_local/ZhemaWEB/sample.html",
+		"/D/Repositorio_local/ZhemaWEB/css/core",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/ZenCoding/Default.sublime-keymap",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/User/zen-coding.sublime-settings"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"ErrorDocument",
+			"ErrorDocument 404",
+			"wp_head",
+			"font-family",
+			"font-family=",
+			"=",
+			"leaguegothic",
+			"DOCTYPE",
+			"div",
+			"article",
+			"div",
+			"entry",
+			"paginacion",
+			"all-post",
+			"main-col",
+			"todo",
+			"paginacion",
+			"tahoma",
+			"font",
+			"tahoma",
+			"hover",
+			"a{",
+			"paginacion",
+			"pages",
+			"h3.sidetitl",
+			"lastchild",
+			"CONTENT",
+			"main-col",
+			"casi",
+			"casing",
+			"content",
+			"main-col",
+			"Archive for",
+			"#header_nav li ul a:hover",
+			"archive",
+			"top",
+			"top ",
+			"webfont",
+			"font",
+			"DroidSans",
+			"SixCaps",
+			"SixCapsRegular",
+			"menu",
+			"x",
+			"current",
+			"current-",
+			"current-menu",
+			"currente-menu",
+			"fff",
+			"li",
+			"social",
+			"D14E25",
+			"SixCapsRegular",
+			"mast",
+			"ma",
+			"mast",
+			"WRAPPER",
+			"sub",
+			"sub-menu",
+			"sub",
+			"submenu",
+			"php _e",
+			"h3",
+			"featbox",
+			"min-height",
+			"top ",
+			"h1",
+			"CF4C23",
+			"BA3A1A",
+			"E1512A",
+			"D1512A",
+			"a:visited ",
+			"a:visited",
+			"BebasNeueRegular",
+			"BebasNeue",
+			"BebasNeueRegular",
+			".post",
+			"post",
+			"input",
+			"sf",
+			"sfmenu",
+			"wp_nav_menu",
+			"wp",
+			"#submenu",
+			"div",
+			"wp_nav_menu",
+			"TEMPLATE",
+			"TEMPLATEPATH",
+			"TEMPLATEPATH\\",
+			"TEMPLATEPATH",
+			"template",
+			"temp",
+			"them",
+			"themp",
+			"define",
+			"php",
+			"define",
+			"TEMPLATEPATH",
+			"define",
+			"#343230",
+			"menu",
+			"Arial, Tahoma,",
+			"Arial, Tahoma, 'Century gothic', sans-serif;",
+			"Arial,",
+			"Arial, Tahoma",
+			"Arial, Tahoma, 'Century gothic', sans-serif;",
+			"font",
+			"12PX",
+			"slides",
+			"cont_menu",
+			"caption",
+			"caption-",
+			"',",
+			"4ABCE4",
+			" ;",
+			"ease",
+			"rotateLogo",
+			"alternate",
+			"barralogo",
+			"cabecera",
+			"\"",
+			"logo",
+			"BrowserMatch MSIE ie",
+			"BrowserMatch MSIE ie\nHeader set X-UA-Compatible \"IE=Edge,chrome=1\" env=ie",
+			"portaf",
+			"caption-",
+			"box-comenzar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test2.html",
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 567.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"class_or_id": "container",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style1.css",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "selector{",
+							"class_or_id": "container",
+							"is_xml": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/geekeandonos/wp-content/themes/ReporterGeek/reporterGeek.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true
+}
