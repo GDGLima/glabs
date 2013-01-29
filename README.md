@@ -3,14 +3,14 @@ glabs
 
 GLabs GDG Lima 
 ---------------
-Los Glabs nacen bajo la iniciativa de intercambair conocimiento asociado al ecosistema de las tecnologías Google.
-Nos juntamos todos los viernes por HO a compartir conocimiento sobre alguna tecnología como Android, Html5, Python, ...
+Los Glabs nacen bajo la iniciativa de intercambiar conocimiento asociado al ecosistema de las tecnologías Google.
+Nos juntamos todos los viernes por HO a compartir conocimiento sobre tecnologías como Android, Html5, Python, etc.
 
 Información 
 -----------
-* Website [GDG Lima](http://gdglima.pe)
-* GitHub [/GDGLima/](https://github.com/GDGLima/glabs.git)
-* Google Group [GDG Lima]() 
+* [Website](http://gdglima.pe)
+* [Github](https://github.com/GDGLima)
+* [Google Groups](https://groups.google.com/forum/#!forum/gdglima) 
 
 Directorio
 ----------
